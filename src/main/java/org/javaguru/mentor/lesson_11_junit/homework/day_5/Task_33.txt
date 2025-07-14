@@ -1,0 +1,3 @@
+Read book "Test-Driven Development by Example" Kent Beck (2002).
+
+"Экстремальное программирование: разработка через тестирование" (Кент Бек) (2017).

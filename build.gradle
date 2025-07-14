@@ -1,0 +1,27 @@
+
+apply plugin: 'java'
+apply plugin: 'idea'
+
+version = '0.0.1-SNAPSHOT'
+
+compileJava {
+	options.encoding = "UTF-8"
+}
+
+repositories {
+	mavenCentral()
+}
+
+java {
+	toolchain {
+		languageVersion.set(JavaLanguageVersion.of(21)) // Use JDK 21
+	}
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.11.3'
+}
+
+test {
+	useJUnitPlatform()
+}
