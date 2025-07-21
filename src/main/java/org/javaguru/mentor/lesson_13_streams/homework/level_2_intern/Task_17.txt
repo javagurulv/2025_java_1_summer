@@ -1,5 +1,0 @@
-Напишите тесты для всех предикатов с использованием лямбда выражений
-наподобие этого:
-
-List<Apple> redApples = filterApples(...,
-    (Apple apple) -> "red".equals(apple.getColor()));

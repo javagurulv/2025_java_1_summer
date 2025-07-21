@@ -1,6 +1,0 @@
-Мап
-Хеш функция - hashCode()
-Эквивалентность объектов - equals()
-Map
-HashMap
-TreeMap

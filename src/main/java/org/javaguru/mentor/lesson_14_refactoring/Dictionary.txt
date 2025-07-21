@@ -1,6 +1,0 @@
-Refactoring
-Rename variable
-Rename method
-Rename class/interface
-Extract method
-Extract class
