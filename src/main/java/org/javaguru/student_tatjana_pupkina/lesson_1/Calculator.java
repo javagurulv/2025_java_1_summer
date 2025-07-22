@@ -8,6 +8,10 @@ class Calculator {
 
         int sum = number1 + number2;
         System.out.println("Sum = " + sum);
+
+        // comment
+        int substruct = number1 - number2;
+        System.out.println("Substruct = " + substruct);
     }
 
 }
